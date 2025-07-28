@@ -6,7 +6,7 @@ Bu sayfada veri görselleştirme eğitimi için hazırlanmış ödevleri ve prat
 
 Matplotlib kütüphanesini öğrenmek için hazırlanmış pratik uygulamalar:
 
-**[Matplotlib Ödevleri](/matplotlib-odevler)**
+**[Matplotlib Ödevleri](/matplotlib/matplotlib-odevler)**
 
 ### Ödev İçeriği:
 - Temel grafik türleri uygulamaları
@@ -18,7 +18,7 @@ Matplotlib kütüphanesini öğrenmek için hazırlanmış pratik uygulamalar:
 
 Seaborn kütüphanesi ile istatistiksel veri görselleştirme uygulamaları:
 
-**[Seaborn Ödevleri](/seaborn-odevler)**
+**[Seaborn Ödevleri](/seaborn/seaborn-odevler)**
 
 ### Ödev İçeriği:
 - İstatistiksel grafik türleri

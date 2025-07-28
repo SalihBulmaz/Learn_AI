@@ -15,8 +15,8 @@ Bu website, Python ile veri bilimi ve yapay zeka eğitimi için gerekli tüm ara
 
 Veri görselleştirme ile başlayın:
 
-- **[Matplotlib Eğitimi](/matplotlib)** - Python'da veri görselleştirmenin temelleri
-- **[Seaborn Eğitimi](/seaborn)** - İstatistiksel veri görselleştirme kütüphanesi
+- **[Pandas Dersi](/pandas/pandas-ders)** - Excel Python ile yönetmek.
+- **[Numpy Dersi](/numpy/numpy-ders)** - Hızlı matris, vektör ve array işlemleri.
 
 ## 📚 Eğitim İçeriği
 
@@ -25,8 +25,8 @@ Veri görselleştirme ile başlayın:
 - **Seaborn**: İstatistiksel görselleştirmeler ve modern grafik tasarımı
 
 ### Ödevler ve Uygulamalar
-- **[Matplotlib Ödevleri](/matplotlib-odevler)** - Pratik uygulamalar
-- **[Seaborn Ödevleri](/seaborn-odevler)** - Gerçek veri analizleri
+- **[Matplotlib Ödevleri](/matplotlib/matplotlib-odevler)** - Pratik uygulamalar
+- **[Seaborn Ödevleri](/seaborn/seaborn-odevler)** - Gerçek veri analizleri
 
 ## 🎯 Öğrenme Hedefleri
 
