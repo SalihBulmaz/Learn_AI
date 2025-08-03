@@ -8,7 +8,7 @@ export default defineConfig({
     nav: [
       { text: "Ana Sayfa", link: "/" },
       { text: "Matplotlib", link: "/matplotlib/matplotlib-ders" },
-      { text: "Seaborn", link: "/seaborn/seaborn-ders" },
+      { text: "Regression", link: "/regression/linear-regression-ders" },
       { text: "Ödevler", link: "/odevler" },
     ],
 
@@ -47,6 +47,15 @@ export default defineConfig({
             items: [
               { text: "Seaborn Ders Anlatımı", link: "/seaborn/seaborn-ders" },
               { text: "Seaborn Ödevler", link: "/seaborn/seaborn-odevler" },
+            ],
+          },
+          {
+            text: "Regression",
+            items: [
+              {
+                text: "Linear Regression Ders Anlatımı",
+                link: "/regression/linear-regression-ders",
+              },
             ],
           },
         ],
