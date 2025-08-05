@@ -56,6 +56,19 @@ export default defineConfig({
                 text: "Linear Regression Ders Anlatımı",
                 link: "/regression/linear-regression-ders",
               },
+              {
+                text: "Polynomial Regression Ders Anlatımı",
+                link: "/regression/polynomial-regression-ders",
+              },
+              {
+                text: "Ridge Regression Ders Anlatımı",
+                link: "/regression/ridge-regression-ders",
+              },
+              {
+                text: "Lasso Regression Ders Anlatımı",
+                link: "/regression/lasso-regression-ders",
+              },
+              
             ],
           },
         ],
