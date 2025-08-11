@@ -71,6 +71,15 @@ export default defineConfig({
               
             ],
           },
+          {
+            text: "Database",
+            items: [
+              {
+                text: "Prisma Örnek",
+                link: "/database/prisma",
+              },
+            ],
+          },
         ],
       },
     ],
